@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xmlgui>
-<form id="1" name="Auto Maintenance Survey" submitTo="http://10.211.55.2/~fableson/xmlgui2-post.php" >
+<form id="1" name="Auto Maintenance Survey" submitTo="http://47.95.215.87:8080/onlinetable/xmlgui2-post.php" >
 <field name="state" label="State (ie NJ)" type="text" required="Y" options=""/>
 <field name="make" label="Car Model" type="choice" required="Y" options="Chevrolet|Govt. Motors Truck|Ford|Hyundai|Mercedes|Toyota"/>
 <field name="year" label="Year Built" type="choice" required="Y" options="2010|2009|2008|2007|2006|2005|2004|2003|2002|2001|2000|1999|1998|1997|1996|Older"/>
